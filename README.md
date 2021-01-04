@@ -1,5 +1,4 @@
-### Hi you! 👋
-> No matter how good is a project if it has good docs. - Someone
+### Welcome on my profile! 👋
 
 I'm **Hugo**, I'm currently studying computer science at EPITA, in Paris. I also work as a teaching assistant (ASM) for the 2nd year students, monitoring their exams and helping them out in C and Rust. I love good docs and neat user interface, so I always make at least decent ones, what's the point of an outstanding code if it can't be used?
 
