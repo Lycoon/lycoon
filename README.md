@@ -1,7 +1,6 @@
 ### Welcome on my profile! 👋
 
 My name is **Hugo** and I'm studying computer engineering in Paris, specializing in computer graphics and computer vision.
-
 I love good docs and neat user interface, so I always make at least decent ones, what's the point of an outstanding code if it can't be used?
 
 - 🖥️ I code in C, C++, C#, Rust, Java, Python, Kotlin, Typescript (+HTML/CSS).
